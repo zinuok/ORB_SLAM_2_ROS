@@ -1,5 +1,4 @@
 # ORB_SLAM_2_ROS
-# ORB_SLAM_2_ROS
 + ORB_SLAM_2_ROS setup for following nvidia boards
     + jetson TX2 - Jetpack 4.2
     + jetson Xavier NX - Jetpack 4.4
