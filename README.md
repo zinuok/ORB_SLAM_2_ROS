@@ -18,7 +18,7 @@
 ####    &nbsp;&nbsp;&nbsp;&nbsp;● Eigen3
 ### 2. Installation
 ####    &nbsp;&nbsp;&nbsp;&nbsp;● Actually, there is no installation difference among TX2, Xavier, and NX
-### 3. Install
+### 3. Jetson Boards
 ### 4. Run
 <br><br>
 
@@ -40,8 +40,8 @@ $ source ~/catkin_ws/devel/setup.bash
 ```
 <br><br>
 
-## 3. TX2, NX
-#### ● Actually, no installation difference between TX2 and NX
+## 3. Jetson Boards
+#### ● Actually, no installation difference among TX2, Xavier, and NX
 <br><br>
 
 
