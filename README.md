@@ -3,6 +3,7 @@
 + ORB_SLAM_2_ROS setup for following nvidia boards
     + jetson TX2 - Jetpack 4.2
     + jetson Xavier NX - Jetpack 4.4
+    + jetson Xavier
     <br>
 + version info
     + Ubuntu: 18.04 
@@ -16,7 +17,7 @@
 ### 1. Prerequisites
 ####    &nbsp;&nbsp;&nbsp;&nbsp;● Eigen3
 ### 2. Installation
-####    &nbsp;&nbsp;&nbsp;&nbsp;● Actually, there is no installation difference between TX2 and NX
+####    &nbsp;&nbsp;&nbsp;&nbsp;● Actually, there is no installation difference among TX2, Xavier, and NX
 ### 3. Install
 ### 4. Run
 <br><br>
