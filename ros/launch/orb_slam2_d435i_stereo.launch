@@ -1,9 +1,9 @@
 <launch>
 <!--
   <node name="trajector_orb" pkg="hector_trajectory_server" type="hector_trajectory_server"/>
+-->
   <node name="orb_slam2_stereo" pkg="orb_slam2_ros"
       type="orb_slam2_ros_stereo" output="screen">
--->
        <remap from="image_left/image_color_rect" to="/camera/infra1/image_rect_raw" />
        <remap from="image_right/image_color_rect" to="/camera/infra2/image_rect_raw" />
 
@@ -21,5 +21,5 @@
        <param name="pointcloud_frame_id" type="string" value="map" />
        <param name="camera_frame_id" type="string" value="camera_link" />
        <param name="min_num_kf_in_map" type="int" value="5" />
-  </node>
+  </node> 
 </launch>
