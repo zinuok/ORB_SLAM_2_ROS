@@ -21,7 +21,7 @@ Camera.height: 480
 Camera.fps: 30.0
 
 # stereo baseline (distance between cameras in m?) times fx
-Camera.bf: 5.561474472  # 0.0146 * 380.9229090195708
+Camera.bf: 20.950759996  # 0.0146 * 380.9229090195708
 
 # Color order of the images (0: BGR, 1: RGB. It is ignored if images are grayscale)
 Camera.RGB: 1
