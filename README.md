@@ -46,7 +46,7 @@ $ source ~/catkin_ws/devel/setup.bash
 
 
 ## 4. Run
-#### ● I used the stereo version. You can find the config file at config/RealsenseD435iStereo.yaml
+#### ● I used the stereo version. You can find the config file at config/RealSenseD435iStereo.yaml
 #### ● you have to get a calibration data using [kalibr](https://github.com/zinuok/kalibr)
 ```
 $ roslaunch realsense2_camera rs_camera.launch
